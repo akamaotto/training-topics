@@ -1,0 +1,108 @@
+{
+    "Distribution Business": {
+      "Wholesale": {
+        "Supply Chain Management": [
+          "Supplier Relationship Management",
+          "Inventory Management",
+          "Logistics and Transportation",
+          "Warehousing"
+        ],
+        "Sales and Marketing": [
+          "B2B Sales Strategies",
+          "Pricing Strategies",
+          "Trade Promotions",
+          "Customer Relationship Management (CRM)"
+        ],
+        "Operations Management": [
+          "Order Processing",
+          "Warehouse Management Systems (WMS)",
+          "Distribution Network Design",
+          "Performance Metrics and KPIs"
+        ],
+        "Regulatory Compliance": [
+          "Trade Regulations",
+          "Quality Standards",
+          "Safety and Health Regulations",
+          "Environmental Compliance"
+        ]
+      },
+      "Retail": {
+        "Retail Management": [
+          "Store Operations",
+          "Merchandising",
+          "Inventory Management",
+          "Customer Service"
+        ],
+        "Marketing and Sales": [
+          "Retail Marketing Strategies",
+          "Visual Merchandising",
+          "Loyalty Programs",
+          "Omnichannel Retailing"
+        ],
+        "E-commerce": [
+          "Online Store Setup",
+          "Digital Marketing",
+          "Customer Experience",
+          "Fulfillment and Logistics"
+        ],
+        "Retail Technology": [
+          "Point of Sale (POS) Systems",
+          "Retail Analytics",
+          "Mobile Commerce",
+          "Customer Relationship Management (CRM)"
+        ]
+      },
+      "Direct-to-Consumer (D2C)": {
+        "Brand Development": [
+          "Brand Positioning",
+          "Product Differentiation",
+          "Brand Storytelling",
+          "Customer Loyalty"
+        ],
+        "Digital Marketing": [
+          "Social Media Marketing",
+          "Content Marketing",
+          "Email Marketing",
+          "Influencer Marketing"
+        ],
+        "E-commerce Management": [
+          "Website Optimization",
+          "Payment Gateways",
+          "Customer Journey Mapping",
+          "Conversion Rate Optimization"
+        ],
+        "Fulfillment and Logistics": [
+          "Order Management",
+          "Inventory Management",
+          "Shipping Solutions",
+          "Returns Management"
+        ]
+      },
+      "Cross-functional Topics": {
+        "Financial Management": [
+          "Budgeting and Forecasting",
+          "Financial Reporting",
+          "Cash Flow Management",
+          "Cost Control"
+        ],
+        "Customer Experience": [
+          "Customer Feedback Systems",
+          "Personalization",
+          "Customer Support",
+          "Customer Retention Strategies"
+        ],
+        "Sustainability": [
+          "Sustainable Sourcing",
+          "Waste Reduction",
+          "Energy Efficiency",
+          "Corporate Social Responsibility (CSR)"
+        ],
+        "Technology Integration": [
+          "Enterprise Resource Planning (ERP)",
+          "Data Analytics",
+          "Automation",
+          "Cybersecurity"
+        ]
+      }
+    }
+  }

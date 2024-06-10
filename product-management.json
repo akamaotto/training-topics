@@ -1,0 +1,166 @@
+{
+    "Product Management": {
+      "Product Strategy": {
+        "Vision and Roadmap": [
+          "Defining Product Vision",
+          "Creating Product Roadmaps",
+          "Product Lifecycle Management",
+          "Strategic Planning"
+        ],
+        "Market Research": [
+          "Competitive Analysis",
+          "Customer Research",
+          "SWOT Analysis",
+          "Market Sizing"
+        ],
+        "Go-to-Market Strategy": [
+          "Market Segmentation",
+          "Positioning and Messaging",
+          "Launch Planning",
+          "Sales Enablement"
+        ]
+      },
+      "Product Development": {
+        "Agile Product Management": [
+          "Scrum Framework",
+          "Kanban Methodology",
+          "Lean Product Development",
+          "Backlog Management"
+        ],
+        "Product Requirements": [
+          "Writing User Stories",
+          "Defining Acceptance Criteria",
+          "Creating Product Specs",
+          "Prioritization Techniques"
+        ],
+        "User Experience (UX)": [
+          "User Research",
+          "Prototyping and Wireframing",
+          "Usability Testing",
+          "Interaction Design"
+        ]
+      },
+      "Product Marketing": {
+        "Product Positioning": [
+          "Unique Selling Proposition (USP)",
+          "Value Proposition",
+          "Competitive Positioning",
+          "Market Differentiation"
+        ],
+        "Pricing Strategies": [
+          "Cost-Based Pricing",
+          "Value-Based Pricing",
+          "Competitive Pricing",
+          "Freemium and Subscription Models"
+        ],
+        "Growth Marketing": [
+          "Customer Acquisition",
+          "Retention Strategies",
+          "Growth Hacking",
+          "A/B Testing"
+        ]
+      },
+      "Product Analytics": {
+        "Metrics and KPIs": [
+          "Defining Success Metrics",
+          "Tracking Product Usage",
+          "Customer Feedback Analysis",
+          "Churn Analysis"
+        ],
+        "Data-Driven Decision Making": [
+          "A/B Testing",
+          "Cohort Analysis",
+          "User Behavior Analytics",
+          "Product Iteration"
+        ],
+        "Tools and Technologies": [
+          "Analytics Platforms (Google Analytics, Mixpanel)",
+          "Customer Feedback Tools",
+          "Data Visualization",
+          "Heatmaps and Session Recording"
+        ]
+      }
+    },
+    "Business Analysis": {
+      "Business Analysis Planning": {
+        "Stakeholder Analysis": [
+          "Identifying Stakeholders",
+          "Stakeholder Engagement",
+          "Communication Planning",
+          "Stakeholder Management"
+        ],
+        "Requirements Planning": [
+          "Elicitation Techniques",
+          "Requirements Documentation",
+          "Prioritization Methods",
+          "Traceability Matrices"
+        ],
+        "BA Tools and Techniques": [
+          "SWOT Analysis",
+          "PESTLE Analysis",
+          "Business Model Canvas",
+          "Gap Analysis"
+        ]
+      },
+      "Elicitation and Collaboration": {
+        "Requirements Elicitation": [
+          "Interviews",
+          "Workshops",
+          "Surveys and Questionnaires",
+          "Focus Groups"
+        ],
+        "Collaboration Techniques": [
+          "Joint Application Development (JAD)",
+          "Brainstorming Sessions",
+          "Prototyping",
+          "Collaborative Games"
+        ],
+        "Documenting and Communicating Requirements": [
+          "Use Cases and Scenarios",
+          "User Stories",
+          "Business Requirements Document (BRD)",
+          "Functional Specifications"
+        ]
+      },
+      "Requirements Analysis": {
+        "Modeling Techniques": [
+          "Process Modeling",
+          "Data Modeling",
+          "Use Case Modeling",
+          "Activity Diagrams"
+        ],
+        "Requirements Validation": [
+          "Review Techniques",
+          "Walkthroughs",
+          "Inspections",
+          "Validation Meetings"
+        ],
+        "Solution Assessment": [
+          "Feasibility Analysis",
+          "Cost-Benefit Analysis",
+          "Risk Analysis",
+          "Impact Analysis"
+        ]
+      },
+      "Solution Evaluation": {
+        "Performance Measurement": [
+          "Key Performance Indicators (KPIs)",
+          "Performance Metrics",
+          "Benchmarking",
+          "Continuous Improvement"
+        ],
+        "Solution Validation": [
+          "User Acceptance Testing (UAT)",
+          "Pilot Testing",
+          "Post-Implementation Review",
+          "Feedback Collection"
+        ],
+        "Change Management": [
+          "Change Impact Analysis",
+          "Change Request Management",
+          "Communication Strategies",
+          "Training and Support"
+        ]
+      }
+    }
+  }

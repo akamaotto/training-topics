@@ -1,0 +1,108 @@
+{
+    "Banking, Finance, Insurance & Fintech": {
+      "Banking": {
+        "Retail Banking": [
+          "Branch Operations",
+          "Customer Service",
+          "Personal Banking Products",
+          "Digital Banking"
+        ],
+        "Corporate Banking": [
+          "Corporate Lending",
+          "Trade Finance",
+          "Cash Management",
+          "Treasury Services"
+        ],
+        "Investment Banking": [
+          "Mergers and Acquisitions",
+          "Equity Research",
+          "Debt Financing",
+          "Initial Public Offerings (IPOs)"
+        ],
+        "Risk Management": [
+          "Credit Risk",
+          "Market Risk",
+          "Operational Risk",
+          "Regulatory Compliance"
+        ]
+      },
+      "Finance": {
+        "Financial Analysis": [
+          "Ratio Analysis",
+          "Financial Statement Analysis",
+          "Cash Flow Analysis",
+          "Valuation Techniques"
+        ],
+        "Corporate Finance": [
+          "Capital Budgeting",
+          "Cost of Capital",
+          "Capital Structure",
+          "Dividend Policy"
+        ],
+        "Investment Management": [
+          "Portfolio Management",
+          "Asset Allocation",
+          "Risk Management",
+          "Performance Measurement"
+        ],
+        "Financial Planning": [
+          "Personal Financial Planning",
+          "Retirement Planning",
+          "Estate Planning",
+          "Tax Planning"
+        ]
+      },
+      "Insurance": {
+        "Underwriting Principles": [
+          "Risk Assessment",
+          "Underwriting Process",
+          "Policy Pricing",
+          "Reinsurance"
+        ],
+        "Claims Management": [
+          "Claims Process",
+          "Claims Investigation",
+          "Fraud Detection",
+          "Customer Service in Claims"
+        ],
+        "Insurance Products": [
+          "Life Insurance",
+          "Health Insurance",
+          "Property and Casualty Insurance",
+          "Liability Insurance"
+        ],
+        "Regulatory Compliance": [
+          "Insurance Laws and Regulations",
+          "Consumer Protection",
+          "Regulatory Reporting",
+          "Compliance Programs"
+        ]
+      },
+      "Fintech": {
+        "Digital Banking": [
+          "Mobile Banking",
+          "Online Banking",
+          "Digital Wallets",
+          "Open Banking"
+        ],
+        "Blockchain and Cryptocurrencies": [
+          "Blockchain Technology",
+          "Cryptocurrency Basics",
+          "Cryptocurrency Trading",
+          "Regulatory Issues in Crypto"
+        ],
+        "Financial Software Development": [
+          "Core Banking Systems",
+          "Payment Gateways",
+          "Trading Platforms",
+          "Robo-Advisors"
+        ],
+        "Financial Data Analytics": [
+          "Big Data in Finance",
+          "Predictive Analytics",
+          "AI and Machine Learning in Finance",
+          "Data Privacy and Security"
+        ]
+      }
+    }
+  }

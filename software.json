@@ -1,0 +1,229 @@
+{
+    "Technology & Software": {
+      "Software Development": {
+        "Programming Languages": [
+          "Python",
+          "JavaScript",
+          "Java",
+          "C#",
+          "Ruby",
+          "Go",
+          "C++",
+          "Swift",
+          "Kotlin",
+          "Rust",
+          "TypeScript",
+          "PHP",
+          "Scala",
+          "Perl",
+          "Objective-C",
+          "SQL",
+          "Shell Scripting",
+          "Assembly Language",
+          "R",
+          "MATLAB",
+          "Visual Basic",
+          "Haskell",
+          "Clojure",
+          "Erlang",
+          "Lua",
+          "Dart",
+          "Groovy",
+          "Julia",
+          "F#",
+          "COBOL",
+          "Ada",
+          "Fortran",
+          "Lisp",
+          "Prolog",
+          "Scheme",
+          "Smalltalk",
+          "Tcl",
+          "Pascal",
+          "Logo",
+          "Forth",
+          "APL",
+          "BASIC",
+          "ML",
+          "Eiffel",
+          "Modula-2",
+          "Oberon",
+          "Ada",
+          "Simula",
+          "SNOBOL",
+          "PL/I",
+          "ALGOL",
+          "BCPL",
+          "CPL",
+          "JOVIAL"
+        ],
+        "Software Design": [
+          "Object-Oriented Design",
+          "Functional Programming",
+          "Design Patterns",
+          "Architectural Patterns",
+          "Domain-Driven Design",
+          "Test-Driven Development",
+          "Behavior-Driven Development",
+          "Model-View-Controller (MVC)",
+          "Model-View-ViewModel (MVVM)",
+          "Model-View-Controller-ViewModel (MVCVM)",
+          "Model-View-Presenter (MVP)",
+          "Model-View-Intent (MVI)",
+          "Model-View-Update (MVU)",
+          "Model-View-Controller-Store (MVCS)",
+          "Model-View-Update-Controller (MVUC)",
+          "Model-View-Update-Store (MVUS)",
+          "Model-View-Update-Controller-Store (MVUCS)",
+          "Model-View-Update-Store-Controller (MVUSC)",
+          "Model-View-Update-Controller-Store (MVUCS)",
+          "Software Architecture"
+        ],
+        "Agile Development": [
+          "Scrum Framework",
+          "Kanban Methodology",
+          "Lean Software Development",
+          "Agile Project Management"
+        ],
+        "DevOps": [
+          "Continuous Integration and Continuous Deployment (CI/CD)",
+          "Infrastructure as Code (IaC)",
+          "Containerization (Docker)",
+          "Orchestration (Kubernetes)"
+        ]
+      },
+      "Web Development": {
+        "Front-End Development": [
+          "HTML & CSS",
+          "JavaScript Frameworks (React, Angular, Vue, Svelte, Ember)",
+          "Front-End Build Tools (Webpack, Babel)",
+          "Front-End Testing (Jest, Mocha, Jasmine)",
+          "Responsive Web Design",
+          "Web Performance Optimization"
+        ],
+        "Back-End Development": [
+          "Server-Side Languages (Node.js, Django, Ruby on Rails, ASP.NET)",
+          "Database Management (SQL, NoSQL)",
+          "API Development (REST, GraphQL, gRPC)",
+          "Authentication and Authorization",
+          "Serverless Architecture"
+        ],
+        "Full-Stack Development": [
+          "MEAN/MERN Stack",
+          "LAMP Stack",
+          "JAMstack",
+          "Microservices Architecture",
+          "Progressive Web Apps (PWAs)",
+          "Server-Side Rendering (SSR)",
+          "Static Site Generators (Gatsby, Next.js)",
+          "Headless CMS (Contentful, Strapi)",
+          "Mono Repos",
+          "Jamstack"
+        ]
+      },
+      "Mobile Development": {
+        "iOS Development": [
+          "Swift Programming",
+          "UIKit and SwiftUI",
+          "Core Data",
+          "App Store Submission"
+        ],
+        "Android Development": [
+          "Kotlin Programming",
+          "Android Jetpack",
+          "Material Design",
+          "Google Play Store Submission"
+        ],
+        "Cross-Platform Development": [
+          "React Native",
+          "Flutter",
+          "Xamarin",
+          "Progressive Web Apps (PWAs)"
+        ],
+        "Mobile UI/UX Design": [
+          "Mobile Interface Design",
+          "User Experience Best Practices",
+          "Prototyping and Wireframing",
+          "Usability Testing"
+        ]
+      },
+      "Data Engineering": {
+        "Data Modeling": [
+          "Entity-Relationship Diagrams",
+          "Normalization",
+          "Data Warehousing",
+          "Data Lakes"
+        ],
+        "ETL Processes": [
+          "Data Extraction",
+          "Data Transformation",
+          "Data Loading",
+          "ETL Tools (Informatica, Talend, Apache NiFi)"
+        ],
+        "Big Data Technologies": [
+          "Hadoop Ecosystem",
+          "Spark",
+          "Kafka",
+          "NoSQL Databases (MongoDB, Cassandra)"
+        ],
+        "Data Analytics": [
+          "Data Visualization",
+          "Descriptive Analytics",
+          "Predictive Analytics",
+          "Prescriptive Analytics"
+        ]
+      },
+      "Cybersecurity": {
+        "Network Security": [
+          "Firewalls and VPNs",
+          "Intrusion Detection Systems (IDS)",
+          "Security Information and Event Management (SIEM)",
+          "Network Security Protocols"
+        ],
+        "Application Security": [
+          "Secure Coding Practices",
+          "Application Security Testing",
+          "Web Application Firewalls (WAF)",
+          "OWASP Top Ten"
+        ],
+        "Information Security": [
+          "Data Encryption",
+          "Identity and Access Management",
+          "Security Policies and Compliance",
+          "Incident Response"
+        ],
+        "Ethical Hacking": [
+          "Penetration Testing",
+          "Vulnerability Assessment",
+          "Red Teaming",
+          "Social Engineering"
+        ]
+      },
+      "Artificial Intelligence": {
+        "Machine Learning": [
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Reinforcement Learning",
+          "Deep Learning"
+        ],
+        "Natural Language Processing (NLP)": [
+          "Text Processing",
+          "Sentiment Analysis",
+          "Language Modeling",
+          "Chatbots and Conversational AI"
+        ],
+        "Computer Vision": [
+          "Image Processing",
+          "Object Detection",
+          "Facial Recognition",
+          "Image Generation"
+        ],
+        "AI Ethics and Governance": [
+          "Bias and Fairness",
+          "Privacy and Security",
+          "Explainability",
+          "Regulation and Compliance"
+        ]
+      }
+    }
+  }

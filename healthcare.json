@@ -1,0 +1,160 @@
+{
+    "Care & Healthcare": {
+      "Healthcare Administration": {
+        "Healthcare Management": [
+          "Hospital Management",
+          "Clinic Management",
+          "Health Services Management",
+          "Healthcare Operations"
+        ],
+        "Healthcare Policy": [
+          "Health Policy Development",
+          "Healthcare Regulations",
+          "Public Health Policy",
+          "Health Economics"
+        ],
+        "Healthcare Finance": [
+          "Revenue Cycle Management",
+          "Healthcare Budgeting",
+          "Cost Control and Reduction",
+          "Financial Reporting"
+        ],
+        "Human Resources in Healthcare": [
+          "Staff Recruitment",
+          "Staff Training and Development",
+          "Performance Management",
+          "Employee Relations"
+        ]
+      },
+      "Clinical Care": {
+        "Patient Care": [
+          "Patient Assessment",
+          "Care Planning",
+          "Patient Education",
+          "Patient Advocacy"
+        ],
+        "Nursing": [
+          "Fundamentals of Nursing",
+          "Specialized Nursing Care",
+          "Nursing Ethics",
+          "Continuing Nursing Education"
+        ],
+        "Medical Specialties": [
+          "Primary Care",
+          "Emergency Medicine",
+          "Surgery",
+          "Specialist Care (Cardiology, Oncology, etc.)"
+        ],
+        "Therapeutic Services": [
+          "Physical Therapy",
+          "Occupational Therapy",
+          "Speech Therapy",
+          "Rehabilitation Services"
+        ]
+      },
+      "Healthcare Technology": {
+        "Health Information Technology (HIT)": [
+          "Electronic Health Records (EHR)",
+          "Health Information Systems",
+          "Telemedicine",
+          "Health Data Analytics"
+        ],
+        "Medical Devices": [
+          "Diagnostic Equipment",
+          "Therapeutic Equipment",
+          "Medical Device Integration",
+          "Maintenance and Calibration"
+        ],
+        "Telehealth": [
+          "Telehealth Platforms",
+          "Remote Patient Monitoring",
+          "Virtual Consultations",
+          "Telehealth Regulations"
+        ],
+        "Health Informatics": [
+          "Clinical Informatics",
+          "Health Data Management",
+          "Interoperability",
+          "Health Information Exchange"
+        ]
+      },
+      "Public Health": {
+        "Epidemiology": [
+          "Disease Surveillance",
+          "Outbreak Investigation",
+          "Epidemiological Methods",
+          "Infectious Disease Control"
+        ],
+        "Health Promotion": [
+          "Community Health Education",
+          "Behavioral Health Interventions",
+          "Chronic Disease Prevention",
+          "Health Campaigns"
+        ],
+        "Environmental Health": [
+          "Environmental Risk Assessment",
+          "Occupational Health",
+          "Pollution Control",
+          "Environmental Health Policy"
+        ],
+        "Global Health": [
+          "Global Health Initiatives",
+          "International Health Organizations",
+          "Global Disease Burden",
+          "Global Health Policy"
+        ]
+      },
+      "Mental Health": {
+        "Mental Health Disorders": [
+          "Mood Disorders",
+          "Anxiety Disorders",
+          "Psychotic Disorders",
+          "Substance Use Disorders"
+        ],
+        "Therapeutic Approaches": [
+          "Cognitive Behavioral Therapy (CBT)",
+          "Psychotherapy",
+          "Medication Management",
+          "Crisis Intervention"
+        ],
+        "Community Mental Health": [
+          "Mental Health Advocacy",
+          "Community Support Programs",
+          "Stigma Reduction",
+          "Peer Support"
+        ],
+        "Mental Health Policy": [
+          "Mental Health Legislation",
+          "Mental Health Funding",
+          "Mental Health Services",
+          "Workplace Mental Health"
+        ]
+      },
+      "Elder Care": {
+        "Geriatric Care": [
+          "Aging Process",
+          "Common Geriatric Conditions",
+          "Geriatric Assessment",
+          "Care Coordination"
+        ],
+        "Home Care": [
+          "Home Health Aides",
+          "Personal Care Services",
+          "Home Safety",
+          "Respite Care"
+        ],
+        "Long-Term Care": [
+          "Nursing Homes",
+          "Assisted Living",
+          "Palliative Care",
+          "Hospice Care"
+        ],
+        "Elder Care Policy": [
+          "Aging Services",
+          "Elder Rights",
+          "Medicare and Medicaid",
+          "Elder Abuse Prevention"
+        ]
+      }
+    }
+  }

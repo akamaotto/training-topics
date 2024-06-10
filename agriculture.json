@@ -1,0 +1,216 @@
+{
+    "Agricultural Engineering & Business": {
+      "Agricultural Engineering": {
+        "Soil and Water Engineering": {
+          "Soil Mechanics": [
+            "Soil Properties",
+            "Soil Classification",
+            "Soil Erosion Control",
+            "Soil Conservation"
+          ],
+          "Irrigation Systems": [
+            "Surface Irrigation",
+            "Sprinkler Irrigation",
+            "Drip Irrigation",
+            "Irrigation Scheduling"
+          ],
+          "Drainage Systems": [
+            "Surface Drainage",
+            "Subsurface Drainage",
+            "Drainage Design",
+            "Water Table Management"
+          ],
+          "Water Resources Management": [
+            "Watershed Management",
+            "Hydrology",
+            "Water Quality",
+            "Water Conservation"
+          ]
+        },
+        "Farm Machinery and Power": {
+          "Tractors and Power Units": [
+            "Tractor Design and Operation",
+            "Engine Systems",
+            "Transmission Systems",
+            "Power Take-Off (PTO)"
+          ],
+          "Tillage and Seeding Equipment": [
+            "Plows and Harrows",
+            "Seed Drills",
+            "Planters",
+            "Direct Seeding"
+          ],
+          "Harvesting Equipment": [
+            "Combine Harvesters",
+            "Forage Harvesters",
+            "Threshers",
+            "Balers"
+          ],
+          "Precision Agriculture": [
+            "GPS and GIS Applications",
+            "Remote Sensing",
+            "Variable Rate Technology",
+            "Automation and Robotics"
+          ]
+        },
+        "Agricultural Structures and Environmental Control": {
+          "Farm Buildings": [
+            "Barns and Storage Structures",
+            "Greenhouses",
+            "Animal Housing",
+            "Building Materials"
+          ],
+          "Environmental Control Systems": [
+            "Heating, Ventilation, and Air Conditioning (HVAC)",
+            "Lighting Systems",
+            "Environmental Monitoring",
+            "Energy Efficiency"
+          ],
+          "Post-Harvest Technology": [
+            "Grain Drying and Storage",
+            "Food Processing",
+            "Packaging Technology",
+            "Cold Chain Management"
+          ],
+          "Renewable Energy": [
+            "Biomass Energy",
+            "Solar Energy",
+            "Wind Energy",
+            "Biofuels"
+          ]
+        },
+        "Biological Engineering": {
+          "Bioprocess Engineering": [
+            "Fermentation Technology",
+            "Bioreactors",
+            "Enzyme Technology",
+            "Bioseparation Processes"
+          ],
+          "Genetic Engineering": [
+            "Genetically Modified Organisms (GMOs)",
+            "Gene Editing Techniques",
+            "Plant and Animal Breeding",
+            "Biotechnology Regulations"
+          ],
+          "Food Engineering": [
+            "Food Safety",
+            "Food Preservation",
+            "Food Packaging",
+            "Nutritional Engineering"
+          ],
+          "Bioinformatics": [
+            "Genomics and Proteomics",
+            "Data Analysis",
+            "Computational Biology",
+            "Systems Biology"
+          ]
+        }
+      },
+      "Agricultural Business": {
+        "Agribusiness Management": {
+          "Farm Management": [
+            "Farm Planning",
+            "Enterprise Budgeting",
+            "Resource Allocation",
+            "Risk Management"
+          ],
+          "Agricultural Marketing": [
+            "Market Research",
+            "Commodity Markets",
+            "Supply Chain Management",
+            "Marketing Strategies"
+          ],
+          "Finance and Accounting": [
+            "Agricultural Finance",
+            "Credit Management",
+            "Financial Statements",
+            "Investment Analysis"
+          ],
+          "Policy and Regulation": [
+            "Agricultural Policy",
+            "Trade Regulations",
+            "Environmental Policy",
+            "Food Safety Regulations"
+          ]
+        },
+        "Sustainable Agriculture": {
+          "Organic Farming": [
+            "Organic Certification",
+            "Soil Health",
+            "Pest Management",
+            "Crop Rotation"
+          ],
+          "Conservation Practices": [
+            "Conservation Tillage",
+            "Cover Crops",
+            "Agroforestry",
+            "Integrated Pest Management (IPM)"
+          ],
+          "Sustainable Livestock Production": [
+            "Pasture Management",
+            "Animal Welfare",
+            "Nutrient Management",
+            "Waste Management"
+          ],
+          "Agroecology": [
+            "Ecosystem Services",
+            "Biodiversity",
+            "Climate Change Adaptation",
+            "Sustainable Land Use"
+          ]
+        },
+        "Agricultural Economics": {
+          "Production Economics": [
+            "Economies of Scale",
+            "Cost-Benefit Analysis",
+            "Resource Use Efficiency",
+            "Production Functions"
+          ],
+          "Agricultural Policy Analysis": [
+            "Policy Impact Assessment",
+            "Subsidies and Support Programs",
+            "Trade Policies",
+            "Food Security"
+          ],
+          "Rural Development": [
+            "Rural Infrastructure",
+            "Community Development",
+            "Microfinance",
+            "Extension Services"
+          ],
+          "International Agriculture": [
+            "Global Food Systems",
+            "Agricultural Trade",
+            "Development Programs",
+            "International Organizations"
+          ]
+        },
+        "Agricultural Technology": {
+          "Precision Agriculture": [
+            "GIS and GPS Applications",
+            "Remote Sensing",
+            "Drones in Agriculture",
+            "Data Management"
+          ],
+          "Smart Farming": [
+            "IoT Applications",
+            "Automated Systems",
+            "Robotics",
+            "Smart Sensors"
+          ],
+          "Agricultural Biotechnology": [
+            "GMOs",
+            "CRISPR Technology",
+            "Biopesticides",
+            "Biofertilizers"
+          ],
+          "Digital Agriculture": [
+            "Farm Management Software",
+            "Mobile Applications",
+            "E-Commerce Platforms",
+            "Blockchain in Agriculture"
+          ]
+        }
+      }
+    }
+  }

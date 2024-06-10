@@ -1,0 +1,222 @@
+{
+    "Petroleum Engineering & Business": {
+      "Petroleum Engineering": {
+        "Drilling Engineering": {
+          "Well Planning and Design": [
+            "Site Selection",
+            "Drilling Program Design",
+            "Wellbore Stability",
+            "Directional Drilling"
+          ],
+          "Drilling Operations": [
+            "Drilling Techniques",
+            "Drilling Equipment",
+            "Mud Engineering",
+            "Casing and Cementing"
+          ],
+          "Drilling Fluids Management": [
+            "Types of Drilling Fluids",
+            "Fluid Properties and Functions",
+            "Fluid Loss Control",
+            "Environmental Considerations"
+          ],
+          "Well Control": [
+            "Blowout Prevention",
+            "Kick Detection and Control",
+            "Pressure Control Methods",
+            "Well Control Equipment"
+          ]
+        },
+        "Production Engineering": {
+          "Well Completion Techniques": [
+            "Completion Design",
+            "Perforating",
+            "Sand Control",
+            "Stimulation Techniques"
+          ],
+          "Artificial Lift Systems": [
+            "Beam Pumping",
+            "Gas Lift",
+            "Electric Submersible Pumps (ESP)",
+            "Hydraulic Lift"
+          ],
+          "Production Optimization": [
+            "Flow Assurance",
+            "Nodal Analysis",
+            "Production Logging",
+            "Well Intervention"
+          ],
+          "Surface Facilities": [
+            "Separation Processes",
+            "Storage and Transportation",
+            "Produced Water Treatment",
+            "Facility Design and Operation"
+          ]
+        },
+        "Reservoir Engineering": {
+          "Reservoir Characterization": [
+            "Reservoir Rock Properties",
+            "Fluid Properties",
+            "Reservoir Fluid Flow",
+            "Reservoir Simulation"
+          ],
+          "Enhanced Oil Recovery (EOR) Methods": [
+            "Thermal Recovery",
+            "Gas Injection",
+            "Chemical Flooding",
+            "Microbial EOR"
+          ],
+          "Reservoir Management": [
+            "Reservoir Surveillance",
+            "Performance Monitoring",
+            "Reservoir Modeling",
+            "Field Development Planning"
+          ],
+          "Reservoir Simulation": [
+            "Static Modeling",
+            "Dynamic Modeling",
+            "History Matching",
+            "Predictive Simulation"
+          ]
+        },
+        "Petroleum Geology": {
+          "Seismic Interpretation": [
+            "Seismic Data Acquisition",
+            "Seismic Processing",
+            "Seismic Attribute Analysis",
+            "Seismic Inversion"
+          ],
+          "Petrophysical Analysis": [
+            "Well Logging",
+            "Core Analysis",
+            "Formation Evaluation",
+            "Petrophysical Modeling"
+          ],
+          "Geological Mapping": [
+            "Structural Geology",
+            "Stratigraphy",
+            "Reservoir Mapping",
+            "Geological Modeling"
+          ],
+          "Basin Analysis": [
+            "Source Rock Evaluation",
+            "Migration Pathways",
+            "Trap and Seal Analysis",
+            "Play Fairway Analysis"
+          ]
+        },
+        "Health, Safety, and Environment (HSE)": [
+          "Safety Management",
+          "Environmental Management",
+          "Regulatory Compliance",
+          "Emergency Response"
+        ]
+      },
+      "Petroleum Business": {
+        "Oil and Gas Economics": {
+          "Energy Markets": [
+            "Global Oil Markets",
+            "Natural Gas Markets",
+            "Price Determinants",
+            "Market Trends"
+          ],
+          "Cost Analysis": [
+            "Capital Expenditure (CAPEX)",
+            "Operational Expenditure (OPEX)",
+            "Break-Even Analysis",
+            "Lifecycle Costing"
+          ],
+          "Financial Analysis": [
+            "Cash Flow Analysis",
+            "Profitability Metrics",
+            "Risk Assessment",
+            "Investment Appraisal"
+          ],
+          "Economic Evaluation": [
+            "Net Present Value (NPV)",
+            "Internal Rate of Return (IRR)",
+            "Payback Period",
+            "Sensitivity Analysis"
+          ]
+        },
+        "Petroleum Contracts and Negotiations": {
+          "Types of Contracts": [
+            "Production Sharing Contracts",
+            "Joint Operating Agreements",
+            "Service Contracts",
+            "Concession Agreements"
+          ],
+          "Contract Negotiation": [
+            "Negotiation Strategies",
+            "Stakeholder Management",
+            "Dispute Resolution",
+            "Contract Management"
+          ],
+          "Legal and Regulatory Framework": [
+            "International Petroleum Law",
+            "National Oil Companies (NOCs)",
+            "Regulatory Compliance",
+            "Licensing and Permitting"
+          ],
+          "Risk Management in Contracts": [
+            "Risk Identification",
+            "Risk Mitigation Strategies",
+            "Insurance",
+            "Force Majeure"
+          ]
+        },
+        "Supply Chain and Logistics": {
+          "Procurement": [
+            "Sourcing Strategies",
+            "Vendor Management",
+            "Procurement Process",
+            "Cost Control"
+          ],
+          "Logistics": [
+            "Transportation Management",
+            "Inventory Management",
+            "Warehousing",
+            "Distribution Strategies"
+          ],
+          "Supply Chain Optimization": [
+            "Lean Supply Chain",
+            "Just-in-Time (JIT)",
+            "Supply Chain Resilience",
+            "Technology in Supply Chain"
+          ],
+          "Health, Safety, and Environment (HSE)": [
+            "HSE Regulations",
+            "Safety Standards",
+            "Environmental Protection",
+            "Emergency Preparedness"
+          ]
+        },
+        "Project Management in Oil and Gas": {
+          "Project Planning": [
+            "Project Charter",
+            "Scope Management",
+            "Time Management",
+            "Cost Management"
+          ],
+          "Project Execution": [
+            "Resource Allocation",
+            "Quality Management",
+            "Communication Management",
+            "Procurement Management"
+          ],
+          "Project Monitoring and Control": [
+            "Performance Metrics",
+            "Risk Management",
+            "Change Management",
+            "Project Reporting"
+          ],
+          "Project Closure": [
+            "Project Handover",
+            "Lessons Learned",
+            "Post-Project Evaluation",
+            "Project Documentation"
+          ]
+        }
+      }
+    }
+  }

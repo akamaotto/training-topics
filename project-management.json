@@ -1,0 +1,134 @@
+{
+    "Project Management": {
+      "Project Planning": {
+        "Scope Management": [
+          "Defining Project Scope",
+          "Creating Work Breakdown Structures (WBS)",
+          "Scope Verification",
+          "Scope Control"
+        ],
+        "Time Management": [
+          "Project Scheduling",
+          "Gantt Charts",
+          "Critical Path Method (CPM)",
+          "Project Milestones"
+        ],
+        "Cost Management": [
+          "Cost Estimation",
+          "Budgeting",
+          "Cost Control",
+          "Earned Value Management (EVM)"
+        ],
+        "Risk Management": [
+          "Risk Identification",
+          "Risk Analysis",
+          "Risk Response Planning",
+          "Risk Monitoring and Control"
+        ]
+      },
+      "Project Execution": {
+        "Resource Management": [
+          "Resource Planning",
+          "Resource Allocation",
+          "Team Building",
+          "Conflict Resolution"
+        ],
+        "Quality Management": [
+          "Quality Planning",
+          "Quality Assurance",
+          "Quality Control",
+          "Continuous Improvement"
+        ],
+        "Communication Management": [
+          "Communication Planning",
+          "Information Distribution",
+          "Performance Reporting",
+          "Stakeholder Engagement"
+        ],
+        "Procurement Management": [
+          "Procurement Planning",
+          "Vendor Selection",
+          "Contract Management",
+          "Procurement Performance Review"
+        ]
+      },
+      "Project Monitoring and Control": {
+        "Performance Measurement": [
+          "Key Performance Indicators (KPIs)",
+          "Project Metrics",
+          "Dashboards and Reporting",
+          "Variance Analysis"
+        ],
+        "Change Control": [
+          "Change Management Process",
+          "Change Request Management",
+          "Impact Analysis",
+          "Change Approval"
+        ],
+        "Project Reporting": [
+          "Status Reporting",
+          "Progress Tracking",
+          "Project Reviews",
+          "Lessons Learned"
+        ],
+        "Issue Management": [
+          "Issue Identification",
+          "Issue Logging",
+          "Issue Resolution",
+          "Escalation Procedures"
+        ]
+      },
+      "Agile Project Management": {
+        "Agile Principles": [
+          "Agile Manifesto",
+          "Agile Values and Principles",
+          "Agile vs. Traditional Project Management",
+          "Benefits of Agile"
+        ],
+        "Scrum Framework": [
+          "Scrum Roles (Scrum Master, Product Owner, Development Team)",
+          "Scrum Events (Sprint, Daily Scrum, Sprint Review, Sprint Retrospective)",
+          "Scrum Artifacts (Product Backlog, Sprint Backlog, Increment)",
+          "Scrum Implementation"
+        ],
+        "Kanban Methodology": [
+          "Kanban Principles",
+          "Visual Management",
+          "Work In Progress (WIP) Limits",
+          "Continuous Delivery"
+        ],
+        "Lean Project Management": [
+          "Lean Principles",
+          "Value Stream Mapping",
+          "Eliminating Waste",
+          "Kaizen (Continuous Improvement)"
+        ]
+      },
+      "Project Leadership": {
+        "Leadership Styles": [
+          "Transformational Leadership",
+          "Transactional Leadership",
+          "Servant Leadership",
+          "Situational Leadership"
+        ],
+        "Team Motivation": [
+          "Incentive Programs",
+          "Recognition and Rewards",
+          "Building Team Morale",
+          "Motivational Theories"
+        ],
+        "Stakeholder Management": [
+          "Stakeholder Identification",
+          "Stakeholder Analysis",
+          "Stakeholder Engagement Strategies",
+          "Managing Stakeholder Expectations"
+        ],
+        "Decision Making": [
+          "Decision-Making Models",
+          "Problem-Solving Techniques",
+          "Critical Thinking",
+          "Consensus Building"
+        ]
+      }
+    }
+  }

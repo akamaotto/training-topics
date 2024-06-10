@@ -1,0 +1,165 @@
+{
+    "Personal Development": {
+      "Self-Awareness": {
+        "Emotional Intelligence": [
+          "Understanding Emotions",
+          "Managing Emotions",
+          "Empathy",
+          "Social Skills"
+        ],
+        "Personality Assessments": [
+          "Myers-Briggs Type Indicator (MBTI)",
+          "Big Five Personality Traits",
+          "DISC Assessment",
+          "StrengthsFinder"
+        ],
+        "Mindfulness and Reflection": [
+          "Mindfulness Meditation",
+          "Journaling",
+          "Self-Reflection Techniques",
+          "Mindful Living"
+        ]
+      },
+      "Goal Setting": {
+        "SMART Goals": [
+          "Specific",
+          "Measurable",
+          "Achievable",
+          "Relevant",
+          "Time-Bound"
+        ],
+        "Long-Term Planning": [
+          "Vision Boards",
+          "Life Planning",
+          "Career Goals",
+          "Personal Milestones"
+        ],
+        "Short-Term Planning": [
+          "Daily Goals",
+          "Weekly Planning",
+          "Monthly Objectives",
+          "Quarterly Reviews"
+        ]
+      },
+      "Time Management": {
+        "Productivity Techniques": [
+          "Pomodoro Technique",
+          "Eisenhower Matrix",
+          "Getting Things Done (GTD)",
+          "Time Blocking"
+        ],
+        "Prioritization Skills": [
+          "Urgent vs. Important",
+          "ABC Method",
+          "80/20 Rule (Pareto Principle)",
+          "Task Delegation"
+        ],
+        "Avoiding Procrastination": [
+          "Understanding Procrastination",
+          "Motivation Strategies",
+          "Breaking Tasks into Steps",
+          "Accountability Partners"
+        ]
+      },
+      "Communication Skills": {
+        "Effective Speaking": [
+          "Public Speaking",
+          "Storytelling",
+          "Persuasive Communication",
+          "Body Language"
+        ],
+        "Active Listening": [
+          "Listening Techniques",
+          "Empathic Listening",
+          "Feedback and Clarification",
+          "Non-Verbal Cues"
+        ],
+        "Writing Skills": [
+          "Clarity and Conciseness",
+          "Grammar and Style",
+          "Business Writing",
+          "Creative Writing"
+        ]
+      },
+      "Leadership Skills": {
+        "Leadership Styles": [
+          "Transformational Leadership",
+          "Transactional Leadership",
+          "Servant Leadership",
+          "Situational Leadership"
+        ],
+        "Team Building": [
+          "Building Trust",
+          "Conflict Resolution",
+          "Delegation",
+          "Motivating Team Members"
+        ],
+        "Decision Making": [
+          "Critical Thinking",
+          "Problem-Solving",
+          "Risk Assessment",
+          "Decision-Making Models"
+        ]
+      },
+      "Emotional Well-Being": {
+        "Stress Management": [
+          "Identifying Stressors",
+          "Stress Reduction Techniques",
+          "Work-Life Balance",
+          "Relaxation Methods"
+        ],
+        "Building Resilience": [
+          "Coping Strategies",
+          "Positive Thinking",
+          "Adaptability",
+          "Overcoming Setbacks"
+        ],
+        "Self-Care Practices": [
+          "Healthy Lifestyle Choices",
+          "Mental Health Awareness",
+          "Physical Fitness",
+          "Sleep Hygiene"
+        ]
+      },
+      "Continuous Learning": {
+        "Lifelong Learning": [
+          "Growth Mindset",
+          "Learning Styles",
+          "Continuous Improvement",
+          "Curiosity and Exploration"
+        ],
+        "Skill Development": [
+          "Technical Skills",
+          "Soft Skills",
+          "Language Learning",
+          "Hobbies and Interests"
+        ],
+        "Educational Opportunities": [
+          "Formal Education",
+          "Online Courses",
+          "Workshops and Seminars",
+          "Reading and Research"
+        ]
+      },
+      "Financial Literacy": {
+        "Budgeting": [
+          "Creating a Budget",
+          "Tracking Expenses",
+          "Savings Strategies",
+          "Expense Reduction"
+        ],
+        "Investing": [
+          "Investment Basics",
+          "Stock Market",
+          "Real Estate",
+          "Retirement Planning"
+        ],
+        "Debt Management": [
+          "Understanding Debt",
+          "Debt Repayment Strategies",
+          "Credit Scores",
+          "Financial Planning"
+        ]
+      }
+    }
+  }

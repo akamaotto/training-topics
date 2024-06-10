@@ -1,0 +1,117 @@
+{
+    "Layout & Graphic Design, Multimedia Design & Production": {
+      "Layout & Graphic Design": {
+        "Fundamentals of Design": [
+          "Principles of Design",
+          "Elements of Design",
+          "Color Theory",
+          "Typography"
+        ],
+        "Graphic Design Tools": [
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Sketch",
+          "Affinity Photo",
+          "Affinity Designer",
+
+          "CorelDRAW",
+          "Canva",
+          "Inkscape",
+          "GIMP"
+        ],
+        "Layout Design": [
+          "Grid Systems",
+          "Print Layouts",
+          "Digital Layouts",
+          "Responsive Design"
+        ],
+        "Branding and Identity": [
+          "Logo Design",
+          "Brand Guidelines",
+          "Visual Identity",
+          "Stationery Design"
+        ],
+        "Creative Process": [
+          "Concept Development",
+          "Sketching and Wireframing",
+          "Mood Boards",
+          "Design Iteration"
+        ]
+      },
+      "Multimedia Design": {
+        "Visual Communication": [
+          "Infographic Design",
+          "Presentation Design",
+          "Storyboarding",
+          "Visual Storytelling"
+        ],
+        "Animation and Motion Graphics": [
+          "2D Animation",
+          "3D Animation",
+          "Motion Graphics",
+          "Character Animation"
+        ],
+        "Video Production": [
+          "Video Editing",
+          "Cinematography",
+          "Post-Production",
+          "Special Effects"
+        ],
+        "Sound Design": [
+          "Audio Editing",
+          "Sound Effects",
+          "Music Production",
+          "Voiceover Recording"
+        ],
+        "Interactive Media": [
+          "Interactive Design",
+          "User Interface Design",
+          "Prototyping",
+          "Game Design"
+        ]
+      },
+      "Design and Production": {
+        "Print Production": [
+          "Print Technologies",
+          "Prepress Processes",
+          "Color Management",
+          "Finishing Techniques"
+        ],
+        "Digital Production": [
+          "Web Design",
+          "App Design",
+          "Digital Advertising",
+          "Social Media Graphics"
+        ],
+        "Production Software": [
+          "Adobe InDesign",
+          "Sketch",
+          "Figma",
+          "Blender",
+          "Blackmagic Fusion",
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "DaVinci Resolve",
+            "Adobe After Effects",
+            "Cinema 4D",
+            "Maya",
+            "3ds Max",
+            "Unity",
+            "Capcut",
+            "Affinity Publisher"
+        ],
+        "Project Management": [
+          "Creative Briefs",
+          "Time Management",
+          "Client Communication",
+          "Collaborative Design"
+        ],
+        "Trends and Innovation": [
+          "Sustainable Design",
+          "Augmented Reality (AR) in Design",
+          "Virtual Reality (VR) in Design",
+          "Artificial Intelligence (AI) in Design"
+        ]
+      }
+    }
+  }

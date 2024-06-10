@@ -1,0 +1,216 @@
+{
+    "Mining Engineering & Business": {
+      "Mining Engineering": {
+        "Exploration and Geology": {
+          "Mineral Exploration Techniques": [
+            "Geological Mapping",
+            "Geochemical Methods",
+            "Geophysical Methods",
+            "Drilling and Sampling"
+          ],
+          "Ore Deposit Geology": [
+            "Types of Ore Deposits",
+            "Ore Genesis",
+            "Mineralogy",
+            "Structural Geology"
+          ],
+          "Resource Estimation": [
+            "Sampling Methods",
+            "Geostatistics",
+            "Grade Estimation",
+            "Resource Classification"
+          ],
+          "Feasibility Studies": [
+            "Preliminary Economic Assessment",
+            "Pre-Feasibility Study",
+            "Feasibility Study",
+            "Bankable Feasibility Study"
+          ]
+        },
+        "Mine Planning and Design": {
+          "Mine Design": [
+            "Open-Pit Design",
+            "Underground Mine Design",
+            "Mine Layout",
+            "Optimization Techniques"
+          ],
+          "Mine Planning": [
+            "Short-Term Planning",
+            "Long-Term Planning",
+            "Production Scheduling",
+            "Cost Estimation"
+          ],
+          "Mine Ventilation": [
+            "Ventilation Systems",
+            "Airflow Management",
+            "Gas Monitoring",
+            "Dust Control"
+          ],
+          "Rock Mechanics": [
+            "Rock Properties",
+            "Slope Stability",
+            "Ground Control",
+            "Geotechnical Monitoring"
+          ]
+        },
+        "Mineral Processing": {
+          "Comminution": [
+            "Crushing",
+            "Grinding",
+            "Screening",
+            "Classification"
+          ],
+          "Separation Techniques": [
+            "Gravity Separation",
+            "Magnetic Separation",
+            "Flotation",
+            "Electrostatic Separation"
+          ],
+          "Extractive Metallurgy": [
+            "Hydrometallurgy",
+            "Pyrometallurgy",
+            "Electrometallurgy",
+            "Solvent Extraction"
+          ],
+          "Tailings Management": [
+            "Tailings Disposal",
+            "Tailings Reprocessing",
+            "Environmental Impact",
+            "Rehabilitation"
+          ]
+        },
+        "Mining Operations": {
+          "Surface Mining": [
+            "Open-Pit Mining",
+            "Strip Mining",
+            "Mountaintop Removal",
+            "Placer Mining"
+          ],
+          "Underground Mining": [
+            "Room and Pillar Mining",
+            "Longwall Mining",
+            "Cut and Fill Mining",
+            "Block Caving"
+          ],
+          "Mine Safety": [
+            "Safety Protocols",
+            "Hazard Identification",
+            "Emergency Response",
+            "Safety Training"
+          ],
+          "Automation and Technology": [
+            "Automated Equipment",
+            "Remote Sensing",
+            "Mine Monitoring Systems",
+            "Data Analytics"
+          ]
+        }
+      },
+      "Mining Business": {
+        "Mining Economics": {
+          "Market Analysis": [
+            "Commodity Markets",
+            "Supply and Demand Dynamics",
+            "Price Forecasting",
+            "Market Trends"
+          ],
+          "Cost Management": [
+            "Capital Expenditure (CAPEX)",
+            "Operating Expenditure (OPEX)",
+            "Cost Control",
+            "Break-Even Analysis"
+          ],
+          "Financial Analysis": [
+            "Cash Flow Analysis",
+            "Profitability Metrics",
+            "Investment Appraisal",
+            "Risk Assessment"
+          ],
+          "Economic Evaluation": [
+            "Net Present Value (NPV)",
+            "Internal Rate of Return (IRR)",
+            "Payback Period",
+            "Sensitivity Analysis"
+          ]
+        },
+        "Contracts and Negotiations": {
+          "Types of Contracts": [
+            "Exploration Agreements",
+            "Joint Ventures",
+            "Service Contracts",
+            "Offtake Agreements"
+          ],
+          "Contract Negotiation": [
+            "Negotiation Strategies",
+            "Stakeholder Management",
+            "Dispute Resolution",
+            "Contract Management"
+          ],
+          "Legal and Regulatory Framework": [
+            "Mining Law",
+            "Environmental Regulations",
+            "Health and Safety Regulations",
+            "Community Engagement"
+          ],
+          "Risk Management in Contracts": [
+            "Risk Identification",
+            "Risk Mitigation Strategies",
+            "Insurance",
+            "Force Majeure"
+          ]
+        },
+        "Supply Chain and Logistics": {
+          "Procurement": [
+            "Sourcing Strategies",
+            "Vendor Management",
+            "Procurement Process",
+            "Cost Control"
+          ],
+          "Logistics": [
+            "Transportation Management",
+            "Inventory Management",
+            "Warehousing",
+            "Distribution Strategies"
+          ],
+          "Supply Chain Optimization": [
+            "Lean Supply Chain",
+            "Just-in-Time (JIT)",
+            "Supply Chain Resilience",
+            "Technology in Supply Chain"
+          ],
+          "Health, Safety, and Environment (HSE)": [
+            "HSE Regulations",
+            "Safety Standards",
+            "Environmental Protection",
+            "Emergency Preparedness"
+          ]
+        },
+        "Project Management in Mining": {
+          "Project Planning": [
+            "Project Charter",
+            "Scope Management",
+            "Time Management",
+            "Cost Management"
+          ],
+          "Project Execution": [
+            "Resource Allocation",
+            "Quality Management",
+            "Communication Management",
+            "Procurement Management"
+          ],
+          "Project Monitoring and Control": [
+            "Performance Metrics",
+            "Risk Management",
+            "Change Management",
+            "Project Reporting"
+          ],
+          "Project Closure": [
+            "Project Handover",
+            "Lessons Learned",
+            "Post-Project Evaluation",
+            "Project Documentation"
+          ]
+        }
+      }
+    }
+  }

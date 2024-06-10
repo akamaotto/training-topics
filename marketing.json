@@ -1,0 +1,119 @@
+{
+    "Marketing": {
+      "Digital Marketing": {
+        "Search Engine Optimization (SEO)": [
+          "On-Page SEO",
+          "Off-Page SEO",
+          "Technical SEO",
+          "Keyword Research",
+          "Link Building Strategies",
+          "SEO Analytics and Reporting"
+        ],
+        "Social Media Marketing": [
+          "Social Media Strategy",
+          "Content Creation for Social Media",
+          "Social Media Advertising",
+          "Community Management",
+          "Social Media Analytics",
+          "Influencer Marketing"
+        ],
+        "Content Marketing": [
+          "Content Strategy",
+          "Content Creation",
+          "Content Distribution",
+          "Blogging and Article Writing",
+          "Video Marketing",
+          "Podcasting"
+        ],
+        "Email Marketing": [
+          "Email List Building",
+          "Email Campaign Management",
+          "Email Automation",
+          "Personalization and Segmentation",
+          "A/B Testing for Emails",
+          "Email Analytics and Reporting"
+        ],
+        "Pay-Per-Click (PPC) Advertising": [
+          "Google Ads",
+          "Bing Ads",
+          "Social Media Advertising (Facebook, Instagram, LinkedIn)",
+          "Display Advertising",
+          "Remarketing Strategies",
+          "PPC Analytics and Reporting"
+        ]
+      },
+      "Branding": {
+        "Brand Strategy": [
+          "Brand Positioning",
+          "Brand Messaging",
+          "Target Audience Identification",
+          "Brand Architecture",
+          "Competitive Analysis"
+        ],
+        "Visual Identity": [
+          "Logo Design",
+          "Color Palette",
+          "Typography",
+          "Imagery and Iconography",
+          "Brand Style Guide"
+        ],
+        "Brand Positioning": [
+          "Unique Selling Proposition (USP)",
+          "Market Differentiation",
+          "Value Proposition",
+          "Competitive Positioning"
+        ],
+        "Brand Storytelling": [
+          "Brand Narrative",
+          "Storytelling Techniques",
+          "Customer Stories and Testimonials",
+          "Emotional Branding"
+        ]
+      },
+      "Growth Hacking": {
+        "Customer Acquisition Strategies": [
+          "Viral Marketing",
+          "Referral Programs",
+          "Paid Advertising",
+          "Partnerships and Collaborations"
+        ],
+        "Conversion Rate Optimization": [
+          "A/B Testing",
+          "User Experience (UX) Design",
+          "Landing Page Optimization",
+          "Sales Funnel Analysis"
+        ],
+        "Viral Marketing Techniques": [
+          "Social Sharing",
+          "Content Virality",
+          "Influencer Collaborations"
+        ]
+      },
+      "Product Marketing": {
+        "Market Research": [
+          "Market Analysis",
+          "Customer Surveys",
+          "Competitive Analysis",
+          "SWOT Analysis"
+        ],
+        "Go-to-Market Strategy": [
+          "Market Segmentation",
+          "Product Positioning",
+          "Launch Planning",
+          "Sales Enablement"
+        ],
+        "Product Launch Planning": [
+          "Launch Timeline",
+          "Pre-Launch Activities",
+          "Launch Event Planning",
+          "Post-Launch Analysis"
+        ],
+        "Product Lifecycle Management": [
+          "Product Development Stages",
+          "Growth Strategies",
+          "Maturity Stage Tactics",
+          "Decline Stage Management"
+        ]
+      }
+    }
+  }

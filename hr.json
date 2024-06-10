@@ -1,0 +1,186 @@
+{
+    "Human Resources": {
+      "Talent Acquisition": {
+        "Recruitment Strategies": [
+          "Sourcing Candidates",
+          "Job Posting and Advertising",
+          "Employer Branding",
+          "Diversity Recruitment"
+        ],
+        "Interview Techniques": [
+          "Behavioral Interviewing",
+          "Technical Interviewing",
+          "Panel Interviews",
+          "Interview Evaluation"
+        ],
+        "Onboarding": [
+          "New Hire Orientation",
+          "Onboarding Programs",
+          "Mentoring and Buddy Systems",
+          "Compliance Training"
+        ],
+        "Talent Pipeline Development": [
+          "Internship Programs",
+          "Campus Recruitment",
+          "Succession Planning",
+          "Talent Pools"
+        ]
+      },
+      "Employee Development": {
+        "Training and Development": [
+          "Learning Management Systems (LMS)",
+          "Skills Gap Analysis",
+          "Training Needs Assessment",
+          "Designing Training Programs"
+        ],
+        "Performance Management": [
+          "Performance Appraisals",
+          "360-Degree Feedback",
+          "Setting Performance Goals",
+          "Performance Improvement Plans"
+        ],
+        "Career Development": [
+          "Career Pathing",
+          "Professional Development Plans",
+          "Mentoring and Coaching",
+          "Leadership Development"
+        ],
+        "Succession Planning": [
+          "Identifying High-Potentials",
+          "Talent Reviews",
+          "Developmental Assignments",
+          "Succession Planning Models"
+        ]
+      },
+      "Compensation and Benefits": {
+        "Compensation Management": [
+          "Job Evaluation",
+          "Salary Structures",
+          "Pay-for-Performance",
+          "Market Compensation Analysis"
+        ],
+        "Benefits Administration": [
+          "Health Insurance",
+          "Retirement Plans",
+          "Wellness Programs",
+          "Employee Assistance Programs (EAP)"
+        ],
+        "Incentive Programs": [
+          "Bonuses and Commissions",
+          "Stock Options",
+          "Recognition Programs",
+          "Non-Monetary Rewards"
+        ],
+        "Payroll Management": [
+          "Payroll Processing",
+          "Tax Compliance",
+          "Payroll Software",
+          "Time and Attendance Systems"
+        ]
+      },
+      "Employee Relations": {
+        "Workplace Culture": [
+          "Creating a Positive Work Environment",
+          "Diversity and Inclusion",
+          "Employee Engagement",
+          "Organizational Development"
+        ],
+        "Conflict Resolution": [
+          "Mediation and Arbitration",
+          "Conflict Resolution Techniques",
+          "Handling Workplace Disputes",
+          "Employee Grievance Procedures"
+        ],
+        "Labor Relations": [
+          "Collective Bargaining",
+          "Union Management",
+          "Labor Law Compliance",
+          "Handling Strikes and Lockouts"
+        ],
+        "Employee Communication": [
+          "Internal Communication Strategies",
+          "Feedback Mechanisms",
+          "Employee Surveys",
+          "Communication Tools and Technologies"
+        ]
+      },
+      "HR Technology": {
+        "HR Information Systems (HRIS)": [
+          "HRIS Implementation",
+          "HR Data Management",
+          "HRIS Software Selection",
+          "HR Analytics"
+        ],
+        "Talent Management Systems (TMS)": [
+          "Applicant Tracking Systems (ATS)",
+          "Learning Management Systems (LMS)",
+          "Performance Management Systems",
+          "Succession Planning Tools"
+        ],
+        "Employee Self-Service (ESS)": [
+          "ESS Portals",
+          "Mobile HR Applications",
+          "Self-Service Benefits Enrollment",
+          "Time and Attendance Management"
+        ],
+        "HR Data Analytics": [
+          "People Analytics",
+          "Predictive Analytics",
+          "HR Metrics and KPIs",
+          "Data-Driven Decision Making"
+        ]
+      },
+      "Compliance and Legal": {
+        "Employment Law": [
+          "Labor Standards",
+          "Equal Employment Opportunity (EEO)",
+          "Family and Medical Leave Act (FMLA)",
+          "Americans with Disabilities Act (ADA)"
+        ],
+        "Health and Safety": [
+          "Occupational Safety and Health Administration (OSHA) Compliance",
+          "Workplace Safety Programs",
+          "Ergonomics",
+          "Accident Investigation"
+        ],
+        "Data Privacy and Security": [
+          "General Data Protection Regulation (GDPR)",
+          "Employee Data Protection",
+          "Cybersecurity Policies",
+          "Data Breach Response"
+        ],
+        "HR Policies and Procedures": [
+          "Employee Handbooks",
+          "Code of Conduct",
+          "Policy Development",
+          "Policy Communication and Training"
+        ]
+      },
+      "Strategic HR": {
+        "HR Strategy": [
+          "Aligning HR with Business Goals",
+          "HR Business Partnering",
+          "Strategic Workforce Planning",
+          "HR Transformation"
+        ],
+        "Change Management": [
+          "Change Readiness Assessment",
+          "Change Communication",
+          "Managing Resistance to Change",
+          "Sustaining Change"
+        ],
+        "Organizational Development": [
+          "Organizational Design",
+          "Culture Change",
+          "Team Building",
+          "Employee Engagement Strategies"
+        ],
+        "HR Metrics and Analytics": [
+          "HR Scorecards",
+          "Benchmarking",
+          "HR Dashboards",
+          "Reporting and Analysis"
+        ]
+      }
+    }
+  }

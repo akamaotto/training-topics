@@ -1,0 +1,216 @@
+{
+    "Manufacturing & Food Processing Engineering": {
+      "Manufacturing Engineering": {
+        "Manufacturing Processes": {
+          "Machining": [
+            "Turning",
+            "Milling",
+            "Drilling",
+            "Grinding"
+          ],
+          "Forming": [
+            "Forging",
+            "Extrusion",
+            "Rolling",
+            "Stamping"
+          ],
+          "Casting": [
+            "Sand Casting",
+            "Die Casting",
+            "Investment Casting",
+            "Continuous Casting"
+          ],
+          "Joining": [
+            "Welding",
+            "Brazing",
+            "Soldering",
+            "Adhesive Bonding"
+          ]
+        },
+        "Advanced Manufacturing": {
+          "Additive Manufacturing": [
+            "3D Printing",
+            "Selective Laser Sintering (SLS)",
+            "Stereolithography (SLA)",
+            "Fused Deposition Modeling (FDM)"
+          ],
+          "Computer-Aided Manufacturing (CAM)": [
+            "CNC Machining",
+            "CAM Software",
+            "Toolpath Generation",
+            "Post-Processing"
+          ],
+          "Robotics and Automation": [
+            "Industrial Robots",
+            "Automation Systems",
+            "Robotic Programming",
+            "Automated Guided Vehicles (AGVs)"
+          ],
+          "Lean Manufacturing": [
+            "Value Stream Mapping",
+            "5S Methodology",
+            "Kaizen",
+            "Six Sigma"
+          ]
+        },
+        "Manufacturing Systems": {
+          "Production Planning": [
+            "Master Production Schedule (MPS)",
+            "Material Requirements Planning (MRP)",
+            "Capacity Planning",
+            "Just-In-Time (JIT) Manufacturing"
+          ],
+          "Quality Control": [
+            "Statistical Process Control (SPC)",
+            "Quality Management Systems (QMS)",
+            "Inspection and Testing",
+            "Total Quality Management (TQM)"
+          ],
+          "Supply Chain Management": [
+            "Inventory Management",
+            "Logistics",
+            "Supplier Relationship Management",
+            "Supply Chain Optimization"
+          ],
+          "Maintenance Engineering": [
+            "Preventive Maintenance",
+            "Predictive Maintenance",
+            "Reliability Engineering",
+            "Asset Management"
+          ]
+        },
+        "Sustainable Manufacturing": {
+          "Environmental Impact": [
+            "Life Cycle Assessment (LCA)",
+            "Sustainable Materials",
+            "Energy Efficiency",
+            "Waste Reduction"
+          ],
+          "Green Manufacturing": [
+            "Renewable Energy in Manufacturing",
+            "Eco-Friendly Manufacturing Processes",
+            "Green Product Design",
+            "Circular Economy"
+          ],
+          "Regulatory Compliance": [
+            "Environmental Regulations",
+            "Safety Standards",
+            "ISO 14001",
+            "Compliance Audits"
+          ],
+          "Corporate Social Responsibility (CSR)": [
+            "Ethical Sourcing",
+            "Community Engagement",
+            "Sustainability Reporting",
+            "CSR Initiatives"
+          ]
+        }
+      },
+      "Food Processing Engineering": {
+        "Food Processing Technologies": {
+          "Thermal Processing": [
+            "Pasteurization",
+            "Sterilization",
+            "Canning",
+            "Blanching"
+          ],
+          "Non-Thermal Processing": [
+            "High Pressure Processing (HPP)",
+            "Ultrasound Processing",
+            "Pulsed Electric Fields (PEF)",
+            "Cold Plasma"
+          ],
+          "Separation Processes": [
+            "Filtration",
+            "Centrifugation",
+            "Membrane Separation",
+            "Extraction"
+          ],
+          "Packaging Technology": [
+            "Modified Atmosphere Packaging (MAP)",
+            "Vacuum Packaging",
+            "Active and Intelligent Packaging",
+            "Sustainable Packaging"
+          ]
+        },
+        "Food Safety and Quality": {
+          "Food Safety Management Systems": [
+            "HACCP",
+            "ISO 22000",
+            "GFSI Schemes",
+            "Food Safety Audits"
+          ],
+          "Microbial Safety": [
+            "Pathogen Control",
+            "Rapid Microbial Testing",
+            "Sanitation Practices",
+            "Preservation Methods"
+          ],
+          "Food Quality Control": [
+            "Sensory Evaluation",
+            "Nutritional Analysis",
+            "Chemical Testing",
+            "Physical Testing"
+          ],
+          "Regulatory Compliance": [
+            "FDA Regulations",
+            "EU Food Law",
+            "Labeling Requirements",
+            "Food Additives Regulation"
+          ]
+        },
+        "Food Engineering": {
+          "Process Design": [
+            "Unit Operations",
+            "Process Flow Diagrams",
+            "Equipment Selection",
+            "Scale-Up"
+          ],
+          "Food Rheology": [
+            "Viscosity",
+            "Texture Analysis",
+            "Rheological Properties",
+            "Measurement Techniques"
+          ],
+          "Heat and Mass Transfer": [
+            "Heat Transfer Principles",
+            "Mass Transfer Mechanisms",
+            "Drying Processes",
+            "Freezing and Thawing"
+          ],
+          "Food Product Development": [
+            "Formulation",
+            "Shelf-Life Testing",
+            "Sensory Analysis",
+            "Product Launch"
+          ]
+        },
+        "Sustainable Food Processing": {
+          "Energy Efficiency": [
+            "Energy Audits",
+            "Efficient Processing Techniques",
+            "Renewable Energy Integration",
+            "Energy Management Systems"
+          ],
+          "Waste Management": [
+            "Waste Reduction Strategies",
+            "By-Product Utilization",
+            "Composting",
+            "Anaerobic Digestion"
+          ],
+          "Water Management": [
+            "Water Use Efficiency",
+            "Water Recycling",
+            "Effluent Treatment",
+            "Water Footprint"
+          ],
+          "Sustainable Sourcing": [
+            "Ethical Sourcing",
+            "Fair Trade",
+            "Organic Certification",
+            "Sustainable Supply Chains"
+          ]
+        }
+      }
+    }
+  }

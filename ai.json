@@ -1,0 +1,125 @@
+{
+    "AI Engineering & Business": {
+      "AI Engineering": {
+        "Fundamentals of AI": [
+          "History of AI",
+          "AI Terminology",
+          "Types of AI (Narrow, General, Superintelligent)",
+          "Ethics in AI"
+        ],
+        "Machine Learning": {
+          "Supervised Learning": [
+            "Regression",
+            "Classification",
+            "Decision Trees",
+            "Support Vector Machines"
+          ],
+          "Unsupervised Learning": [
+            "Clustering",
+            "Dimensionality Reduction",
+            "Principal Component Analysis (PCA)",
+            "Anomaly Detection"
+          ],
+          "Reinforcement Learning": [
+            "Markov Decision Processes",
+            "Q-Learning",
+            "Policy Gradient Methods",
+            "Deep Reinforcement Learning"
+          ],
+          "Deep Learning": [
+            "Neural Networks",
+            "Convolutional Neural Networks (CNN)",
+            "Recurrent Neural Networks (RNN)",
+            "Autoencoders"
+          ]
+        },
+        "Natural Language Processing (NLP)": [
+          "Text Preprocessing",
+          "Language Models",
+          "Sentiment Analysis",
+          "Machine Translation",
+          "Named Entity Recognition"
+        ],
+        "Computer Vision": [
+          "Image Classification",
+          "Object Detection",
+          "Image Segmentation",
+          "Facial Recognition",
+          "Generative Adversarial Networks (GANs)"
+        ],
+        "AI Tools and Frameworks": [
+          "TensorFlow",
+          "PyTorch",
+          "Keras",
+          "Scikit-Learn",
+          "OpenAI Tools"
+        ],
+        "AI Model Deployment": [
+          "Model Serving",
+          "APIs for AI",
+          "Edge AI",
+          "AI in Cloud",
+          "AI Model Monitoring"
+        ]
+      },
+      "AI Business": {
+        "AI Strategy": [
+          "Developing AI Strategy",
+          "AI Roadmap",
+          "AI Project Management",
+          "AI Governance"
+        ],
+        "AI in Industries": {
+          "AI in Healthcare": [
+            "Medical Imaging",
+            "Predictive Analytics",
+            "Personalized Medicine",
+            "Healthcare Chatbots"
+          ],
+          "AI in Finance": [
+            "Algorithmic Trading",
+            "Fraud Detection",
+            "Credit Scoring",
+            "Customer Service Automation"
+          ],
+          "AI in Retail": [
+            "Customer Insights",
+            "Recommendation Systems",
+            "Inventory Management",
+            "Price Optimization"
+          ],
+          "AI in Manufacturing": [
+            "Predictive Maintenance",
+            "Quality Control",
+            "Supply Chain Optimization",
+            "Robotic Process Automation (RPA)"
+          ]
+        ,
+        "AI Ethics and Policy": [
+          "Ethical AI Principles",
+          "Bias and Fairness",
+          "Transparency and Explainability",
+          "Regulatory Compliance"
+        ],
+        "AI Innovation and Entrepreneurship": [
+          "AI Startups",
+          "Funding and Investment",
+          "AI Product Development",
+          "Market Entry Strategies"
+        ],
+        "Data Management": [
+          "Data Collection",
+          "Data Cleaning",
+          "Data Annotation",
+          "Big Data Technologies"
+        ],
+        "AI Workforce": [
+          "AI Skills Development",
+          "AI Talent Acquisition",
+          "AI Team Building",
+          "AI Workforce Training"
+        ]
+      }
+    }
+  }
+}

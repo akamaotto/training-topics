@@ -1,0 +1,186 @@
+{
+    "Business & Management": {
+      "Business Strategy": {
+        "Strategic Planning": [
+          "Vision and Mission Statements",
+          "SWOT Analysis",
+          "PESTLE Analysis",
+          "Balanced Scorecard"
+        ],
+        "Competitive Strategy": [
+          "Porter's Five Forces",
+          "Core Competencies",
+          "Value Chain Analysis",
+          "Blue Ocean Strategy"
+        ],
+        "Business Model Development": [
+          "Business Model Canvas",
+          "Lean Canvas",
+          "Revenue Models",
+          "Value Proposition"
+        ],
+        "Corporate Governance": [
+          "Board of Directors",
+          "Ethics and Compliance",
+          "Corporate Social Responsibility (CSR)",
+          "Risk Management"
+        ]
+      },
+      "Leadership and Management": {
+        "Leadership Styles": [
+          "Transformational Leadership",
+          "Transactional Leadership",
+          "Servant Leadership",
+          "Situational Leadership"
+        ],
+        "Management Principles": [
+          "Planning",
+          "Organizing",
+          "Leading",
+          "Controlling"
+        ],
+        "Team Management": [
+          "Team Building",
+          "Conflict Resolution",
+          "Motivation and Engagement",
+          "Delegation"
+        ],
+        "Decision Making": [
+          "Problem-Solving",
+          "Critical Thinking",
+          "Decision-Making Models",
+          "Risk Management"
+        ]
+      },
+      "Operations Management": {
+        "Process Improvement": [
+          "Lean Management",
+          "Six Sigma",
+          "Total Quality Management (TQM)",
+          "Kaizen"
+        ],
+        "Supply Chain Management": [
+          "Logistics",
+          "Inventory Management",
+          "Supplier Relationship Management",
+          "Demand Planning"
+        ],
+        "Project Management": [
+          "Project Planning",
+          "Project Execution",
+          "Project Monitoring and Control",
+          "Agile Project Management"
+        ],
+        "Operations Strategy": [
+          "Capacity Planning",
+          "Location Strategy",
+          "Operational Excellence",
+          "Sustainability in Operations"
+        ]
+      },
+      "Human Resource Management": {
+        "Talent Acquisition": [
+          "Recruitment Strategies",
+          "Interview Techniques",
+          "Onboarding",
+          "Employer Branding"
+        ],
+        "Employee Development": [
+          "Training and Development",
+          "Performance Management",
+          "Career Development",
+          "Succession Planning"
+        ],
+        "Compensation and Benefits": [
+          "Salary Structures",
+          "Incentive Programs",
+          "Employee Benefits",
+          "Payroll Management"
+        ],
+        "Employee Relations": [
+          "Workplace Culture",
+          "Employee Engagement",
+          "Conflict Resolution",
+          "Labor Laws and Compliance"
+        ]
+      },
+      "Marketing Management": {
+        "Market Research": [
+          "Customer Insights",
+          "Competitive Analysis",
+          "Market Segmentation",
+          "Market Trends"
+        ],
+        "Marketing Strategy": [
+          "Brand Management",
+          "Digital Marketing",
+          "Content Marketing",
+          "Marketing Analytics"
+        ],
+        "Product Management": [
+          "Product Development",
+          "Product Lifecycle Management",
+          "Go-to-Market Strategy",
+          "Pricing Strategies"
+        ],
+        "Sales Management": [
+          "Sales Techniques",
+          "Sales Planning",
+          "Customer Relationship Management (CRM)",
+          "Sales Analytics"
+        ]
+      },
+      "Financial Management": {
+        "Financial Planning and Analysis": [
+          "Budgeting",
+          "Forecasting",
+          "Financial Statements",
+          "Variance Analysis"
+        ],
+        "Corporate Finance": [
+          "Capital Budgeting",
+          "Capital Structure",
+          "Working Capital Management",
+          "Mergers and Acquisitions"
+        ],
+        "Investment Management": [
+          "Portfolio Management",
+          "Risk Management",
+          "Asset Allocation",
+          "Investment Strategies"
+        ],
+        "Financial Reporting": [
+          "Accounting Principles",
+          "Financial Statements Analysis",
+          "Regulatory Compliance",
+          "Auditing"
+        ]
+      },
+      "Innovation and Entrepreneurship": {
+        "Entrepreneurial Mindset": [
+          "Opportunity Recognition",
+          "Risk-Taking",
+          "Creativity and Innovation",
+          "Resilience"
+        ],
+        "Startup Development": [
+          "Lean Startup Methodology",
+          "Business Plan Creation",
+          "Funding and Financing",
+          "Scaling Strategies"
+        ],
+        "Corporate Innovation": [
+          "Intrapreneurship",
+          "Innovation Management",
+          "Research and Development (R&D)",
+          "Technology Commercialization"
+        ],
+        "Social Entrepreneurship": [
+          "Social Impact",
+          "Sustainable Business Models",
+          "Non-Profit Management",
+          "Community Engagement"
+        ]
+      }
+    }
+  }

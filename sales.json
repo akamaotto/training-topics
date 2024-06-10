@@ -1,0 +1,85 @@
+{
+    "Sales": {
+      "Sales Fundamentals": {
+        "Sales Techniques": [
+          "Consultative Selling",
+          "Solution Selling",
+          "Challenger Sales",
+          "SPIN Selling"
+        ],
+        "Sales Process": [
+          "Prospecting",
+          "Qualifying Leads",
+          "Sales Pitch",
+          "Handling Objections",
+          "Closing Techniques"
+        ],
+        "Sales Communication": [
+          "Active Listening",
+          "Persuasive Communication",
+          "Storytelling in Sales",
+          "Negotiation Skills"
+        ]
+      },
+      "Sales Management": {
+        "Sales Strategy": [
+          "Sales Planning",
+          "Sales Forecasting",
+          "Territory Management",
+          "Sales Metrics and KPIs"
+        ],
+        "Sales Team Management": [
+          "Recruitment and Selection",
+          "Training and Development",
+          "Performance Management",
+          "Motivation and Incentives"
+        ],
+        "Customer Relationship Management (CRM)": [
+          "CRM Software Selection",
+          "CRM Implementation",
+          "Data Management",
+          "Customer Segmentation"
+        ]
+      },
+      "Advanced Sales Techniques": {
+        "Account Management": [
+          "Key Account Management",
+          "Account Planning",
+          "Customer Retention Strategies",
+          "Customer Success Management"
+        ],
+        "B2B Sales": [
+          "Enterprise Sales",
+          "Complex Sales Processes",
+          "Building Relationships with Decision Makers",
+          "Proposal Writing and RFPs"
+        ],
+        "B2C Sales": [
+          "Retail Sales Strategies",
+          "E-commerce Sales",
+          "Customer Experience Enhancement",
+          "Upselling and Cross-selling"
+        ]
+      },
+      "Sales Tools and Technology": {
+        "Sales Automation": [
+          "Email Automation",
+          "Sales Funnel Automation",
+          "Lead Scoring Systems",
+          "Sales Analytics Tools"
+        ],
+        "Sales Enablement": [
+          "Content Management Systems",
+          "Sales Training Platforms",
+          "Sales Playbooks",
+          "Competitive Intelligence Tools"
+        ],
+        "Sales Analytics": [
+          "Sales Data Analysis",
+          "Performance Dashboards",
+          "Predictive Sales Analytics",
+          "Sales Reporting"
+        ]
+      }
+    }
+  }

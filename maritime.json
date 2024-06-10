@@ -1,0 +1,216 @@
+{
+    "Maritime Engineering & Business": {
+      "Maritime Engineering": {
+        "Naval Architecture": {
+          "Ship Design": [
+            "Hull Design",
+            "Hydrodynamics",
+            "Stability and Buoyancy",
+            "Ship Structural Design"
+          ],
+          "Marine Structural Analysis": [
+            "Finite Element Analysis (FEA)",
+            "Fatigue and Fracture Mechanics",
+            "Structural Load Analysis",
+            "Material Selection"
+          ],
+          "Marine Hydrodynamics": [
+            "Wave-Structure Interaction",
+            "Resistance and Propulsion",
+            "Seakeeping",
+            "Maneuvering"
+          ],
+          "Ship Production": [
+            "Shipbuilding Processes",
+            "Outfitting",
+            "Launching",
+            "Repair and Maintenance"
+          ]
+        },
+        "Marine Systems Engineering": {
+          "Propulsion Systems": [
+            "Diesel Engines",
+            "Gas Turbines",
+            "Electric Propulsion",
+            "Hybrid Systems"
+          ],
+          "Electrical and Electronic Systems": [
+            "Marine Electrical Systems",
+            "Navigation Systems",
+            "Communication Systems",
+            "Automation and Control"
+          ],
+          "HVAC Systems": [
+            "Heating, Ventilation, and Air Conditioning",
+            "Refrigeration Systems",
+            "Thermal Insulation",
+            "Energy Efficiency"
+          ],
+          "Marine Auxiliary Systems": [
+            "Pumping Systems",
+            "Firefighting Systems",
+            "Ballast Water Management",
+            "Freshwater Generation"
+          ]
+        },
+        "Offshore Engineering": {
+          "Offshore Structure Design": [
+            "Fixed Platforms",
+            "Floating Platforms",
+            "Subsea Structures",
+            "Wind Turbines"
+          ],
+          "Subsea Engineering": [
+            "Subsea Production Systems",
+            "Risers and Pipelines",
+            "Subsea Processing",
+            "Subsea Control Systems"
+          ],
+          "Pipeline Engineering": [
+            "Pipeline Design",
+            "Installation Techniques",
+            "Pipeline Integrity Management",
+            "Leak Detection Systems"
+          ],
+          "Marine Operations": [
+            "Offshore Installation",
+            "Inspection, Maintenance, and Repair (IMR)",
+            "Decommissioning",
+            "Marine Logistics"
+          ]
+        },
+        "Maritime Safety and Environmental Engineering": {
+          "Safety Management Systems": [
+            "Safety Culture",
+            "Risk Assessment",
+            "Incident Investigation",
+            "Safety Audits"
+          ],
+          "Environmental Protection": [
+            "Ballast Water Treatment",
+            "Marine Pollution Control",
+            "Emission Reduction",
+            "Waste Management"
+          ],
+          "Regulatory Compliance": [
+            "International Maritime Organization (IMO) Regulations",
+            "Classification Societies",
+            "Maritime Law",
+            "Port State Control"
+          ],
+          "Emergency Response": [
+            "Search and Rescue Operations",
+            "Oil Spill Response",
+            "Firefighting and Damage Control",
+            "Crisis Management"
+          ]
+        }
+      },
+      "Maritime Business": {
+        "Shipping Management": {
+          "Fleet Management": [
+            "Vessel Acquisition",
+            "Maintenance Planning",
+            "Crew Management",
+            "Fleet Performance Monitoring"
+          ],
+          "Chartering and Brokerage": [
+            "Types of Charters",
+            "Charter Party Agreements",
+            "Freight Rates",
+            "Brokerage Services"
+          ],
+          "Maritime Economics": [
+            "Shipping Markets",
+            "Supply and Demand Dynamics",
+            "Freight Market Analysis",
+            "Economic Indicators"
+          ],
+          "Port Operations": [
+            "Port Management",
+            "Terminal Operations",
+            "Cargo Handling",
+            "Port Security"
+          ]
+        },
+        "Logistics and Supply Chain Management": {
+          "Maritime Logistics": [
+            "Intermodal Transportation",
+            "Logistics Planning",
+            "Supply Chain Optimization",
+            "Cold Chain Logistics"
+          ],
+          "Freight Forwarding": [
+            "Customs Clearance",
+            "Documentation",
+            "Freight Consolidation",
+            "Freight Insurance"
+          ],
+          "Warehousing and Distribution": [
+            "Warehouse Management Systems",
+            "Inventory Control",
+            "Distribution Strategies",
+            "Last-Mile Delivery"
+          ],
+          "Supply Chain Technology": [
+            "Blockchain in Supply Chain",
+            "Internet of Things (IoT)",
+            "Big Data Analytics",
+            "Artificial Intelligence in Logistics"
+          ]
+        },
+        "Maritime Law and Policy": {
+          "International Maritime Law": [
+            "United Nations Convention on the Law of the Sea (UNCLOS)",
+            "Maritime Zones",
+            "Dispute Resolution",
+            "International Maritime Treaties"
+          ],
+          "Shipping Regulations": [
+            "SOLAS (Safety of Life at Sea)",
+            "MARPOL (Marine Pollution)",
+            "STCW (Standards of Training, Certification, and Watchkeeping)",
+            "ISM Code (International Safety Management)"
+          ],
+          "Maritime Security": [
+            "Piracy and Armed Robbery",
+            "Cybersecurity",
+            "Port Security",
+            "Ship Security Plans"
+          ],
+          "Maritime Policy and Governance": [
+            "National Maritime Policies",
+            "Maritime Infrastructure Development",
+            "Public-Private Partnerships",
+            "Environmental Governance"
+          ]
+        },
+        "Maritime Finance and Insurance": {
+          "Shipping Finance": [
+            "Ship Financing",
+            "Financial Risk Management",
+            "Capital Markets",
+            "Public-Private Partnerships"
+          ],
+          "Marine Insurance": [
+            "Hull and Machinery Insurance",
+            "Protection and Indemnity (P&I) Insurance",
+            "Cargo Insurance",
+            "Marine Liability Insurance"
+          ],
+          "Risk Management": [
+            "Risk Assessment",
+            "Loss Prevention",
+            "Claims Management",
+            "Reinsurance"
+          ],
+          "Financial Analysis": [
+            "Financial Statements",
+            "Investment Appraisal",
+            "Cost-Benefit Analysis",
+            "Financial Performance Metrics"
+          ]
+        }
+      }
+    }
+  }
